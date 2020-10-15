@@ -1,0 +1,6 @@
+{
+    "env":{
+        "pass":123,
+        "dbName":"Admin"
+    }
+}
